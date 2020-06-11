@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hwzm0EsKVkrWK3Qxp0KYb/vLTC5ZuUWztHURLJa6fxNaAL6TRWeY/EQtmj6BH1m+DWHcTtzBvtUeI7mT8qyA6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mrkrm\\source\\git-repo\\CodeAssessment\\CodingAssessment\\CodingAssessment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mrkrm\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.5\\microsoft.extensions.dependencyinjection.3.1.5.nupkg.sha512",
+    "C:\\Users\\mrkrm\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.5\\microsoft.extensions.dependencyinjection.abstractions.3.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
